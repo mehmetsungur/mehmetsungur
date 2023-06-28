@@ -5,7 +5,6 @@ BCFM - DevOps Engineer
 --------------------------------------
 
 * 🌍  I'm based in Ankara
-* 🖥️  See my portfolio at [msungur.com](https://www.msungur.com)
 * ✉️  You can contact me at [mehmetsungur90@gmail.com](mailto:mehmetsungur90@gmail.com)
 * 🚀  I'm currently working on [BCFM](https://bestcloudfor.me/)
 * 🤝  I'm open to collaborating on open source projects
