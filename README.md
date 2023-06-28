@@ -1,4 +1,4 @@
-![image](https://github.com/mehmetsungur/mehmetsungur/assets/45670360/90237b78-1f8c-40cc-9545-411a0ca2bfc1)Hi 👋 My name is M Sungur
+Hi 👋 My name is M Sungur
 ===============================
 
 BCFM - DevOps Engineer
