@@ -1,5 +1,16 @@
 Hi 👋 I' m M Sungur
 ===============================
+I live in Ankara/Turkey. After completing my undergraduate degree at Marmara University in 2014, I applied to Maltepe University Computer Engineering in 2015 for a Master's with Thesis.
+
+I have about 8 years of experience in various sectors in Turkey. In the companies, I work for
+Developing websites for small and medium-sized businesses, taking an active role in ASP.Net MVC related projects,
+I took part in the infrastructure team related to in-house system and network issues, closed pentest vulnerabilities and resolved errors with monitoring systems.
+
+I am progressing in the field of DevOps with my career development and experience on the system side.
+
+In the last company, I worked for, Docker, Kubernetes, Amazon Web Sevices, Grafana, Jenkins, PostgreSQL etc. I develop both my company and myself in the field of DevOps every day by using technologies.
+
+I believe that I have made positive contributions to the companies I work for, both inside and outside the company, thanks to fast learning and good in-team relations.
 
 BCFM - DevOps Engineer
 --------------------------------------
