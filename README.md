@@ -1,4 +1,4 @@
-Hi 👋 My name is M Sungur
+Hi 👋 I' m M Sungur
 ===============================
 
 BCFM - DevOps Engineer
