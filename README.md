@@ -1,6 +1,6 @@
 Hi 👋 I' m M Sungur
 ===============================
-I live in Ankara/Turkey. After completing my undergraduate degree at Marmara University in 2014, I applied to Maltepe University Computer Engineering in 2015 for a Master's with Thesis.
+After completing my undergraduate degree at Marmara University in 2014, I applied to Maltepe University Computer Engineering in 2015 for a Master's with Thesis.
 
 I have about 8 years of experience in various sectors in Turkey. In the companies, I work for
 Developing websites for small and medium-sized businesses, taking an active role in ASP.Net MVC related projects,
