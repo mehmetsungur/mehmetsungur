@@ -8,7 +8,7 @@ I took part in the infrastructure team related to in-house system and network is
 
 I am progressing in the field of DevOps with my career development and experience on the system side.
 
-In the last company, I worked for, Docker, Kubernetes, Amazon Web Sevices, Grafana, Jenkins, PostgreSQL etc. I develop both my company and myself in the field of DevOps every day by using technologies.
+In the last company, I worked for, Java, Docker, K8S, AWS, Grafana, Jenkins, Redis, PostgreSQL etc. I develop both my company and myself in the field of DevOps every day by using technologies.
 
 I believe that I have made positive contributions to the companies I work for, both inside and outside the company, thanks to fast learning and good in-team relations.
 
