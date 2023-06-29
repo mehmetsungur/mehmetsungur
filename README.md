@@ -49,4 +49,4 @@ BCFM - DevOps Engineer
   <a href="https://github.com/mehmetsungur/OM/tree/master/OM" align="left"><img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmetsungur&repo=OM&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
   <a href="https://github.com/mehmetsungur/MyEverNote" align="left"><img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmetsungur&repo=MyEverNote&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
   <a href="https://github.com/mehmetsungur/Terraform" align="left"><img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmetsungur&repo=Terraform&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-</div><br /><br /><br /><br /><br /><br /><br />
+</div><br /><br />
