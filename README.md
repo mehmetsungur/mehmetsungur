@@ -40,7 +40,7 @@ BCFM - DevOps Engineer
 <p><a href="https://www.facebook.com/profile.php?id=100084252634216"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&amp;logoColor=white" alt="Facebook"></a> <a href="https://instagram.com/sungur_mehmet"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" alt="Instagram"></a> <a href="https://linkedin.com/in/mehmetsungur"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a> <a href="https://medium.com/@mehmetsungur90"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&amp;logoColor=white" alt="Medium"></a> <a href="https://twitter.com/msungur90"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&amp;logoColor=white" alt="Twitter"></a> <a href="https://youtube.com/@msungur"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&amp;logoColor=white" alt="YouTube"></a></p>
 
 <h3>📊 GitHub Stats</h3>
-<p><img src="https://github-readme-stats.vercel.app/api?username=mehmetsungur&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt=""><br><br>
+<p><img src="https://mehmetsungur.vercel.app/api?username=mehmetsungur&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt=""><br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetsungur&amp;theme=dark&amp;hide_border=false" alt=""><br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetsungur&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt=""></p>
 
