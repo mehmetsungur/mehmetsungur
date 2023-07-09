@@ -47,5 +47,5 @@ BCFM - DevOps Engineer
 <h3>💖 Suggested Projects</h3>
 <p>
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mehmetsungur&repo=OM)](https://github.com/mehmetsungur/OM)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mehmetsungur&repo=MyEvernote)](https://github.com/mehmetsungur/MyEvernote)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mehmetsungur&repo=OM)](https://github.com/mehmetsungur/OM)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mehmetsungur&repo=MyEvernote)](https://github.com/mehmetsungur/MyEvernote)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mehmetsungur&repo=Terraform)](https://github.com/mehmetsungur/Terraform)
 </p>
