@@ -45,4 +45,6 @@ BCFM - DevOps Engineer
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetsungur&locale=en&hide_title=false&layout=compact&card_width=395&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /><br><br>
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mehmetsungur&repo=OM)](https://github.com/mehmetsungur/OM) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mehmetsungur&repo=MyEvernote)](https://github.com/mehmetsungur/MyEvernote)
+
+  [![M Sungur's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mehmetsungur)](https://github.com/mehmetsungur/OM)
   </div>
