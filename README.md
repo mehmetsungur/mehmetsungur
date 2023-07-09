@@ -39,12 +39,12 @@ BCFM - DevOps Engineer
 <h3>🌐 Socials</h3>
 <p><a href="https://linkedin.com/in/mehmetsungur"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a> <a href="https://medium.com/@mehmetsungur90"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&amp;logoColor=white" alt="Medium"></a> <a href="https://twitter.com/msungur90"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&amp;logoColor=white" alt="Twitter"></a> <a href="https://youtube.com/@msungur"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&amp;logoColor=white" alt="YouTube"></a></p><br>
 
-<h4>📚 Github Stats</h4>
+<h3>📚 Github Stats</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mehmetsungur&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetsungur&locale=en&hide_title=false&layout=compact&card_width=395&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div><br>
 
-<h4>💖 Suggested Projects</h4>
+<h3>💖 Suggested Projects</h3>
 <div align="center">
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mehmetsungur&repo=OM)](https://github.com/mehmetsungur/OM) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mehmetsungur&repo=MyEvernote)](https://github.com/mehmetsungur/MyEvernote)
