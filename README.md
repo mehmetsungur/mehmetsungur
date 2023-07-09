@@ -45,6 +45,4 @@ BCFM - DevOps Engineer
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetsungur&locale=en&hide_title=false&layout=compact&card_width=395&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /><br><br>
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mehmetsungur&repo=OM)](https://github.com/mehmetsungur/OM) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mehmetsungur&repo=MyEvernote)](https://github.com/mehmetsungur/MyEvernote)
-
-  <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e4239489541fbbc4ab42e81a2463597beb86b18cdc91c12ba7029ffaddfe149d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d6666666c616273"><img src="https://camo.githubusercontent.com/e4239489541fbbc4ab42e81a2463597beb86b18cdc91c12ba7029ffaddfe149d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d6666666c616273" alt="M Sungur's wakatime stats" data-canonical-src="https://github-readme-stats.vercel.app/api/wakatime?username=mehmetsungur" style="max-width: 100%;"></a></p>
   </div>
