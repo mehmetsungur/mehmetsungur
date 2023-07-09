@@ -46,5 +46,5 @@ BCFM - DevOps Engineer
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mehmetsungur&repo=OM)](https://github.com/mehmetsungur/OM) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mehmetsungur&repo=MyEvernote)](https://github.com/mehmetsungur/MyEvernote)
 
-  [![M Sungur's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mehmetsungur)](https://github.com/mehmetsungur/OM)
+  [![M Sungur's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mehmetsungur)]([https://github.com/mehmetsungur/OM](https://github.com/anuraghazra/github-readme-stats)https://github.com/anuraghazra/github-readme-stats)
   </div>
