@@ -25,8 +25,7 @@ architecture and solutions.<br>
 I believe my quick learning abilities and strong interpersonal skills have enabled me to make positive
 contributions both internally and externally at the companies I have worked for.
 
-
-![aws-certified-devops-engineer-professional](https://github.com/mehmetsungur/mehmetsungur/assets/45670360/aafd2ecc-07b8-491f-9f21-eaaeea34cfdf)
+![aws-certified-devops-engineer-professional (1)](https://github.com/mehmetsungur/mehmetsungur/assets/45670360/da66d923-d79e-4fbd-b40a-557eab9ec6d2)
 
 BCFM - DevOps Engineer
 --------------------------------------
