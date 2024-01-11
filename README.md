@@ -25,9 +25,9 @@ architecture and solutions.<br>
 I believe my quick learning abilities and strong interpersonal skills have enabled me to make positive
 contributions both internally and externally at the companies I have worked for.
 
-&emsp;&emsp;&emsp;![aws-certified-cloud-practitioner](https://github.com/mehmetsungur/mehmetsungur/assets/45670360/2f7f46ce-f931-45b5-95ad-6e9b25619538)
-&emsp;&emsp;&emsp;![aws-certified-solutions-architect-associate](https://github.com/mehmetsungur/mehmetsungur/assets/45670360/c983f9c6-bd27-4984-8b8e-90cd1ee03da2)
-&emsp;&emsp;&emsp;![aws-certified-devops-engineer-professional (2)](https://github.com/mehmetsungur/mehmetsungur/assets/45670360/83df94b0-b2d4-4979-8cc2-5a2210a8b463)
+&emsp;&emsp;![aws-certified-cloud-practitioner](https://github.com/mehmetsungur/mehmetsungur/assets/45670360/2f7f46ce-f931-45b5-95ad-6e9b25619538)
+&emsp;&emsp;![aws-certified-solutions-architect-associate](https://github.com/mehmetsungur/mehmetsungur/assets/45670360/c983f9c6-bd27-4984-8b8e-90cd1ee03da2)
+&emsp;&emsp;![aws-certified-devops-engineer-professional (2)](https://github.com/mehmetsungur/mehmetsungur/assets/45670360/83df94b0-b2d4-4979-8cc2-5a2210a8b463)
 
 BCFM - DevOps Engineer
 --------------------------------------
