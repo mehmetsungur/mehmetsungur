@@ -3,17 +3,27 @@ Hi 👋 I' m M Sungur
 ===============================
 
 <h3>💫 About Me</h3>
-After completing my undergraduate degree at Marmara University in 2014, I applied to Maltepe University Computer Engineering in 2015 for a Master's with Thesis.
+Hello, I'm M. Sungur, based in Ankara, Turkey. After completing my undergraduate degree at Marmara
+University in 2014, I pursued a Master's with Thesis in Computer Engineering at Maltepe University in 2015.
+With about 8 years of experience across various sectors in Turkey, I have honed my skills in diverse areas. My
+expertise includes developing websites for small and medium-sized businesses, actively participating in
+projects related to ASP.Net MVC, and being part of the infrastructure team handling in-house system and
+network issues. I have also played a key role in closing pentest vulnerabilities and resolving errors with
+monitoring systems.
 
-I have about 8 years of experience in various sectors in Turkey. In the companies, I work for
-Developing websites for small and medium-sized businesses, taking an active role in ASP.Net MVC related projects,
-I took part in the infrastructure team related to in-house system and network issues, closed pentest vulnerabilities and resolved errors with monitoring systems.
+I am currently advancing my career in the field of DevOps, leveraging my system-side experience. At the last
+company I worked for, I utilized technologies like Docker, Kubernetes, Amazon Web Services, Grafana, Jenkins,
+and PostgreSQL. This not only contributed to the growth of the company but also to my personal
+development in the realm of DevOps.
 
-I am progressing in the field of DevOps with my career development and experience on the system side.
+Having completed the AWS Cloud Practitioner, AWS Solution Architecture Associate and AWS Certified
+DevOps Engineer – Professional certifications I've solidified my knowledge and skills in cloud computing and
+AWS services. These certifications have provided me with a comprehensive understanding of AWS's core
+services and concepts in cloud computing, as well as in-depth knowledge and skills in the design of AWS
+architecture and solutions.
 
-In the last company, I worked for, Java, Docker, K8S, AWS, Grafana, Jenkins, Redis, PostgreSQL etc. I develop both my company and myself in the field of DevOps every day by using technologies.
-
-I believe that I have made positive contributions to the companies I work for, both inside and outside the company, thanks to fast learning and good in-team relations.
+I believe my quick learning abilities and strong interpersonal skills have enabled me to make positive
+contributions both internally and externally at the companies I have worked for.
 
 BCFM - DevOps Engineer
 --------------------------------------
