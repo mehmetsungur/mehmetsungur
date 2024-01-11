@@ -25,6 +25,8 @@ architecture and solutions.<br>
 I believe my quick learning abilities and strong interpersonal skills have enabled me to make positive
 contributions both internally and externally at the companies I have worked for.
 
+<img src="![image](https://github.com/mehmetsungur/mehmetsungur/assets/45670360/d72ab15b-dc17-482a-aa56-f618fa45c059)"
+
 BCFM - DevOps Engineer
 --------------------------------------
 
