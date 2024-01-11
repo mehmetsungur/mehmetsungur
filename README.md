@@ -3,7 +3,7 @@ Hi 👋 I' m M Sungur
 ===============================
 
 <h3>💫 About Me</h3>
-Hello, I'm M. Sungur, based in Ankara, Turkey. After completing my undergraduate degree at Marmara
+Hi, I'm M. Sungur, based in Ankara, Turkey. After completing my undergraduate degree at Marmara
 University in 2014, I pursued a Master's with Thesis in Computer Engineering at Maltepe University in 2015.
 With about 8 years of experience across various sectors in Turkey, I have honed my skills in diverse areas. My
 expertise includes developing websites for small and medium-sized businesses, actively participating in
