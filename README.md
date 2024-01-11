@@ -11,6 +11,7 @@ projects related to ASP.Net MVC, and being part of the infrastructure team handl
 network issues. I have also played a key role in closing pentest vulnerabilities and resolving errors with
 monitoring systems.
 
+
 I am currently advancing my career in the field of DevOps, leveraging my system-side experience. At the last
 company I worked for, I utilized technologies like Docker, Kubernetes, Amazon Web Services, Grafana, Jenkins,
 and PostgreSQL. This not only contributed to the growth of the company but also to my personal
