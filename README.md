@@ -24,7 +24,7 @@ architecture and solutions.<br>
 
 I believe my quick learning abilities and strong interpersonal skills have enabled me to make positive
 contributions both internally and externally at the companies I have worked for.
-
+![aws-cloudpractitioner-2020](https://github.com/mehmetsungur/mehmetsungur/assets/45670360/7d22a0a5-e1fb-4236-b032-8a2d0f770739)
 ![AWS-Certified-Solutions-Architect-Associate_badge 3419559c682629072f1eb968d59dea0741772c0f](https://github.com/mehmetsungur/mehmetsungur/assets/45670360/589dd9cb-dada-47cc-867b-65345025f007)
 ![AWS-Certified-DevOps-Engineer-Professional_badge 7492bf660b5351e51f3f8015e4818924294a7e8c](https://github.com/mehmetsungur/mehmetsungur/assets/45670360/e0e14dd3-9f17-4393-98fa-00bc2d61aadf)
 
