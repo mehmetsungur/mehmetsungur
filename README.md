@@ -28,7 +28,8 @@ contributions both internally and externally at the companies I have worked for.
 ![aws-certified-cloud-practitioner](https://github.com/mehmetsungur/mehmetsungur/assets/45670360/2f7f46ce-f931-45b5-95ad-6e9b25619538)
 ![aws-certified-solutions-architect-associate](https://github.com/mehmetsungur/mehmetsungur/assets/45670360/c983f9c6-bd27-4984-8b8e-90cd1ee03da2)
 ![aws-certified-devops-engineer-professional (2)](https://github.com/mehmetsungur/mehmetsungur/assets/45670360/83df94b0-b2d4-4979-8cc2-5a2210a8b463)
-![aws-certified-security-specialty](https://github.com/mehmetsungur/mehmetsungur/assets/45670360/36d84458-10a0-4428-ae50-ac9a3e781ae9)
+![aws-certified-security-specialty](https://github.com/mehmetsungur/mehmetsungur/assets/45670360/6e255b37-7aae-4556-baa6-a178f77d8a48)
+
 
 
 
