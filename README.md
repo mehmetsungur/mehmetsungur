@@ -30,11 +30,6 @@ contributions both internally and externally at the companies I have worked for.
 ![aws-certified-devops-engineer-professional (2)](https://github.com/mehmetsungur/mehmetsungur/assets/45670360/83df94b0-b2d4-4979-8cc2-5a2210a8b463)
 ![aws-certified-security-specialty](https://github.com/mehmetsungur/mehmetsungur/assets/45670360/bfa025c3-9433-43ce-bea7-00f4357c1236)
 
-
-
-
-
-
 BCFM - DevOps Engineer
 --------------------------------------
 
