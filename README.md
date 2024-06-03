@@ -29,6 +29,8 @@ contributions both internally and externally at the companies I have worked for.
 ![aws-certified-solutions-architect-associate](https://github.com/mehmetsungur/mehmetsungur/assets/45670360/c983f9c6-bd27-4984-8b8e-90cd1ee03da2)
 ![aws-certified-devops-engineer-professional (2)](https://github.com/mehmetsungur/mehmetsungur/assets/45670360/83df94b0-b2d4-4979-8cc2-5a2210a8b463)
 ![aws-certified-security-specialty](https://github.com/mehmetsungur/mehmetsungur/assets/45670360/bfa025c3-9433-43ce-bea7-00f4357c1236)
+![hashicorp-certified-terraform-associate-003](https://github.com/mehmetsungur/mehmetsungur/assets/45670360/6e27e453-f343-441a-a6f7-c2929b579610)
+
 
 BCFM - DevOps Engineer
 --------------------------------------
