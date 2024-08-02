@@ -30,7 +30,8 @@ contributions both internally and externally at the companies I have worked for.
 ![aws-certified-devops-engineer-professional (2)](https://github.com/mehmetsungur/mehmetsungur/assets/45670360/83df94b0-b2d4-4979-8cc2-5a2210a8b463)
 ![aws-certified-security-specialty](https://github.com/mehmetsungur/mehmetsungur/assets/45670360/bfa025c3-9433-43ce-bea7-00f4357c1236)
 ![hashicorp-certified-terraform-associate-003 (1)](https://github.com/mehmetsungur/mehmetsungur/assets/45670360/ef33b03e-6bb8-4ac1-9e74-9976a91c3584)
-![image](https://github.com/user-attachments/assets/a3605ee9-5039-412b-b4fd-5e3f5a74e0db)
+![image](https://github.com/user-attachments/assets/128f14af-fb38-408b-949f-073810fd8407)
+
 
 
 
