@@ -7,11 +7,11 @@ With over 8 years of experience in DevOps, system administration, and software d
 
 I am currently preparing for the CompTIA Cyber Security+ certification and actively enhancing my expertise in DevSecOps by integrating security best practices into CI/CD pipelines, infrastructure automation, and cloud security. My focus is on bridging the gap between development, operations, and security to ensure robust and compliant systems.
 
-Key Skills & Tools
-🔹 DevOps & Cloud Technologies: Docker, Kubernetes, AWS, Terraform, Terragrunt, Jenkins, Grafana, OpenSearch
-🔹 Security & Compliance: OWASP, Trivy, Snyk, SonarQube, HashiCorp Vault, Aqua Security, Falco, CIS Benchmarking
-🔹 CI/CD & Infrastructure as Code (IaC): GitHub Actions, GitLab CI, ArgoCD, Helm
-🔹 Monitoring & Incident Response: Dynatrace, New Relic, Prometheus, ELK Stack, RabbitMQ
+Key Skills & Tools<br>
+🔹 DevOps & Cloud Technologies: Docker, Kubernetes, AWS, Terraform, Terragrunt, Jenkins, Grafana, OpenSearch<br>
+🔹 Security & Compliance: OWASP, Trivy, Snyk, SonarQube, HashiCorp Vault, Aqua Security, Falco, CIS Benchmarking<br>
+🔹 CI/CD & Infrastructure as Code (IaC): GitHub Actions, GitLab CI, ArgoCD, Helm<br>
+🔹 Monitoring & Incident Response: Dynatrace, New Relic, Prometheus, ELK Stack, RabbitMQ<br>
 
 I hold the following certifications:<br>
 ✅ AWS Cloud Practitioner<br>
