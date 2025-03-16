@@ -13,7 +13,7 @@ I am currently preparing for the CompTIA Cyber Security+ certification and activ
 🔹 CI/CD & Infrastructure as Code (IaC): GitHub Actions, GitLab CI, ArgoCD, Helm<br>
 🔹 Monitoring & Incident Response: Dynatrace, New Relic, Prometheus, ELK Stack, RabbitMQ<br>
 
-I hold the following certifications:<br>
+<b>I hold the following certifications:</b><br>
 ✅ AWS Cloud Practitioner<br>
 ✅ AWS Certified Solutions Architect<br>
 ✅ AWS Certified DevOps Engineer – Professional<br>
@@ -21,7 +21,7 @@ I hold the following certifications:<br>
 ✅ Certified Kubernetes Administrator (CKA)<br>
 ✅ HashiCorp Certified: Terraform Associate<br>
 ✅ Google Cloud Certified - Cloud Digital Leader<br>
-🎯 (Upcoming) CompTIA Cyber Security+<br>
+<b>🎯 (Upcoming) CompTIA Cyber Security+</b><br>
 
 I am actively working on embedding security into DevOps workflows (DevSecOps), focusing on threat modeling, vulnerability scanning, and compliance automation. As I transition further into Cybersecurity and DevSecOps, I aim to collaborate with security-focused teams and contribute to building secure, scalable, and efficient cloud environments.
 
