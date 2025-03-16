@@ -13,15 +13,15 @@ Key Skills & Tools
 🔹 CI/CD & Infrastructure as Code (IaC): GitHub Actions, GitLab CI, ArgoCD, Helm
 🔹 Monitoring & Incident Response: Dynatrace, New Relic, Prometheus, ELK Stack, RabbitMQ
 
-I hold the following certifications:
-✅ AWS Cloud Practitioner
-✅ AWS Certified Solutions Architect
-✅ AWS Certified DevOps Engineer – Professional
-✅ AWS Certified Security – Specialty
-✅ Certified Kubernetes Administrator (CKA)
-✅ HashiCorp Certified: Terraform Associate
-✅ Google Cloud Certified - Cloud Digital Leader
-🎯 (Upcoming) CompTIA Cyber Security+
+I hold the following certifications:<br>
+✅ AWS Cloud Practitioner<br>
+✅ AWS Certified Solutions Architect<br>
+✅ AWS Certified DevOps Engineer – Professional<br>
+✅ AWS Certified Security – Specialty<br>
+✅ Certified Kubernetes Administrator (CKA)<br>
+✅ HashiCorp Certified: Terraform Associate<br>
+✅ Google Cloud Certified - Cloud Digital Leader<br>
+🎯 (Upcoming) CompTIA Cyber Security+<br>
 
 I am actively working on embedding security into DevOps workflows (DevSecOps), focusing on threat modeling, vulnerability scanning, and compliance automation. As I transition further into Cybersecurity and DevSecOps, I aim to collaborate with security-focused teams and contribute to building secure, scalable, and efficient cloud environments.
 
