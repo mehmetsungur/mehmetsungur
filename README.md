@@ -3,7 +3,7 @@ Hi 👋 I' m M Sungur
 ===============================
 
 <h3>💫 About Me</h3>
-With over 8 years of experience in DevOps, system administration, and software development, I have built a strong technical foundation by working with various cloud and infrastructure technologies. Starting with Java, Python, and ASP.NET, I later transitioned into cloud-native solutions, automation, and security-driven DevOps.
+With over 8 years of experience in DevOps, system administration, and software development, I have built a strong technical foundation by working with various cloud and infrastructure technologies. Starting with Java, Python, and ASP.NET, I later transitioned into cloud-native solutions, automation, and security-driven DevOps.<br>
 
 I am currently preparing for the CompTIA Cyber Security+ certification and actively enhancing my expertise in DevSecOps by integrating security best practices into CI/CD pipelines, infrastructure automation, and cloud security. My focus is on bridging the gap between development, operations, and security to ensure robust and compliant systems.
 
