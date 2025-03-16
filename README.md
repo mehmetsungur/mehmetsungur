@@ -3,27 +3,29 @@ Hi 👋 I' m M Sungur
 ===============================
 
 <h3>💫 About Me</h3>
-Hi, I'm M. Sungur, based in Ankara, Turkey. After completing my undergraduate degree at Marmara
-University in 2014, I pursued a Master's with Thesis in Computer Engineering at Maltepe University in 2015.
-With about 8 years of experience across various sectors in Turkey, I have honed my skills in diverse areas. My
-expertise includes developing websites for small and medium-sized businesses, actively participating in
-projects related to ASP.Net MVC, and being part of the infrastructure team handling in-house system and
-network issues. I have also played a key role in closing pentest vulnerabilities and resolving errors with
-monitoring systems.<br><br>
+With over 8 years of experience in DevOps, system administration, and software development, I have built a strong technical foundation by working with various cloud and infrastructure technologies. Starting with Java, Python, and ASP.NET, I later transitioned into cloud-native solutions, automation, and security-driven DevOps.
 
-I am currently advancing my career in the field of DevOps, leveraging my system-side experience. At the last
-company I worked for, I utilized technologies like Docker, Kubernetes, Amazon Web Services, Grafana, Jenkins,
-and PostgreSQL. This not only contributed to the growth of the company but also to my personal
-development in the realm of DevOps.<br>
+I am currently preparing for the CompTIA Cyber Security+ certification and actively enhancing my expertise in DevSecOps by integrating security best practices into CI/CD pipelines, infrastructure automation, and cloud security. My focus is on bridging the gap between development, operations, and security to ensure robust and compliant systems.
 
-Having completed the AWS Cloud Practitioner, AWS Solution Architecture Associate and AWS Certified
-DevOps Engineer – Professional certifications I've solidified my knowledge and skills in cloud computing and
-AWS services. These certifications have provided me with a comprehensive understanding of AWS's core
-services and concepts in cloud computing, as well as in-depth knowledge and skills in the design of AWS
-architecture and solutions.<br>
+Key Skills & Tools
+🔹 DevOps & Cloud Technologies: Docker, Kubernetes, AWS, Terraform, Terragrunt, Jenkins, Grafana, OpenSearch
+🔹 Security & Compliance: OWASP, Trivy, Snyk, SonarQube, HashiCorp Vault, Aqua Security, Falco, CIS Benchmarking
+🔹 CI/CD & Infrastructure as Code (IaC): GitHub Actions, GitLab CI, ArgoCD, Helm
+🔹 Monitoring & Incident Response: Dynatrace, New Relic, Prometheus, ELK Stack, RabbitMQ
 
-I believe my quick learning abilities and strong interpersonal skills have enabled me to make positive
-contributions both internally and externally at the companies I have worked for.
+I hold the following certifications:
+✅ AWS Cloud Practitioner
+✅ AWS Certified Solutions Architect
+✅ AWS Certified DevOps Engineer – Professional
+✅ AWS Certified Security – Specialty
+✅ Certified Kubernetes Administrator (CKA)
+✅ HashiCorp Certified: Terraform Associate
+✅ Google Cloud Certified - Cloud Digital Leader
+🎯 (Upcoming) CompTIA Cyber Security+
+
+I am actively working on embedding security into DevOps workflows (DevSecOps), focusing on threat modeling, vulnerability scanning, and compliance automation. As I transition further into Cybersecurity and DevSecOps, I aim to collaborate with security-focused teams and contribute to building secure, scalable, and efficient cloud environments.
+
+🚀 Passionate about cloud security, automation, and securing DevOps pipelines, I am open to connecting with cybersecurity professionals and recruiters looking for DevSecOps talent!
 
 ![aws-certified-cloud-practitioner](https://github.com/mehmetsungur/mehmetsungur/assets/45670360/2f7f46ce-f931-45b5-95ad-6e9b25619538)
 ![aws-certified-solutions-architect-associate](https://github.com/mehmetsungur/mehmetsungur/assets/45670360/c983f9c6-bd27-4984-8b8e-90cd1ee03da2)
@@ -32,13 +34,6 @@ contributions both internally and externally at the companies I have worked for.
 ![hashicorp-certified-terraform-associate-003 (1)](https://github.com/mehmetsungur/mehmetsungur/assets/45670360/ef33b03e-6bb8-4ac1-9e74-9976a91c3584)
 ![cka-certified-kubernetes-administrator (2)](https://github.com/user-attachments/assets/ec744183-9e93-41ac-9944-cab6f9219e90)
 ![image](https://github.com/user-attachments/assets/50993694-c420-4e48-b0eb-89603b74da9a)
-
-
-
-
-
-
-
 
 
 
