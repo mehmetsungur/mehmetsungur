@@ -21,7 +21,7 @@ I am currently preparing for the CompTIA Cyber Security+ certification and activ
 ✅ Certified Kubernetes Administrator (CKA)<br>
 ✅ HashiCorp Certified: Terraform Associate<br>
 ✅ Google Cloud Certified - Cloud Digital Leader<br>
-<b>🎯 (Upcoming) CompTIA Cyber Security+</b><br>
+✅ CompTIA Security+ ce Certification</b><br>
 
 I am actively working on embedding security into DevOps workflows (DevSecOps), focusing on threat modeling, vulnerability scanning, and compliance automation. As I transition further into Cybersecurity and DevSecOps, I aim to collaborate with security-focused teams and contribute to building secure, scalable, and efficient cloud environments.
 
@@ -34,6 +34,7 @@ I am actively working on embedding security into DevOps workflows (DevSecOps), f
 ![hashicorp-certified-terraform-associate-003 (1)](https://github.com/mehmetsungur/mehmetsungur/assets/45670360/ef33b03e-6bb8-4ac1-9e74-9976a91c3584)
 ![cka-certified-kubernetes-administrator (2)](https://github.com/user-attachments/assets/ec744183-9e93-41ac-9944-cab6f9219e90)
 <img width="240" alt="cloud-digital-leader-certification" src="https://github.com/user-attachments/assets/c7524965-4ce2-414d-9ca1-06105490c76f" />
+<img width="240" alt="cloud-digital-leader-certification" src="https://github.com/user-attachments/assets/aa22e34f-348a-49df-91b1-238f590acbb3" />
 
 
 
