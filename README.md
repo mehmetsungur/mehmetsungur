@@ -21,6 +21,7 @@ I am currently preparing for the CompTIA Cyber Security+ certification and activ
 ✅ Certified Kubernetes Administrator (CKA)<br>
 ✅ HashiCorp Certified: Terraform Associate<br>
 ✅ Google Cloud Certified - Cloud Digital Leader<br>
+✅ Google Cloud Certified - Cloud Associate Engineer<br>
 ✅ CompTIA Security+ ce Certification</b><br>
 
 I am actively working on embedding security into DevOps workflows (DevSecOps), focusing on threat modeling, vulnerability scanning, and compliance automation. As I transition further into Cybersecurity and DevSecOps, I aim to collaborate with security-focused teams and contribute to building secure, scalable, and efficient cloud environments.
