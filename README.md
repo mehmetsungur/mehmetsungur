@@ -34,8 +34,8 @@ I am actively working on embedding security into DevOps workflows (DevSecOps), f
 ![aws-certified-security-specialty](https://github.com/mehmetsungur/mehmetsungur/assets/45670360/bfa025c3-9433-43ce-bea7-00f4357c1236)
 ![hashicorp-certified-terraform-associate-003 (1)](https://github.com/mehmetsungur/mehmetsungur/assets/45670360/ef33b03e-6bb8-4ac1-9e74-9976a91c3584)
 ![cka-certified-kubernetes-administrator (2)](https://github.com/user-attachments/assets/ec744183-9e93-41ac-9944-cab6f9219e90)
-<img width="230" alt="cloud-digital-leader-certification" src="https://github.com/user-attachments/assets/c7524965-4ce2-414d-9ca1-06105490c76f" />
-<img width="230" src="https://github.com/user-attachments/assets/acce23aa-0253-47b6-b77a-124ed1082e62" />
+<img width="230" alt="cloud-digital-leader-certification" src="https://github.com/user-attachments/assets/c7524965-4ce2-414d-9ca1-06105490c76f" />&nbsp;
+<img width="230" alt="cloud-associate-engineer-certification" src="https://github.com/user-attachments/assets/acce23aa-0253-47b6-b77a-124ed1082e62" />&nbsp;
 <img width="240" alt="cloud-digital-leader-certification" src="https://github.com/user-attachments/assets/aa22e34f-348a-49df-91b1-238f590acbb3" />
 
 
